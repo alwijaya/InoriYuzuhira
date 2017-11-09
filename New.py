@@ -9,19 +9,19 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = TOBY.LINE()
-cl.login(token="EmWiWf1zyILqQ0gWCg6a.2VkhNbXAiKA+FT3J3JVdUG.9O8jcP3liJeoST74Sxe6prVWOyvbSFartn4V5RFvX9s=")
+cl.login(qr=True)
 cl.loginResult
 
 ki = TOBY.LINE()
-ki.login(token="Emd6kdXBwh5Iw8iDtgae.4NaUioi6za9OoLdMB67ApG.yB8G7R/ftOayXxd/tdqSv4WM9o6vNlUpMpKfEB8X4M4=")
+ki.login(qr=True)
 ki.loginResult
 
 kb = TOBY.LINE()
-kb.login(token="EmGVb3hpkIIWw5GiTvR2.9KvXEwlSAj0MgWbzqqSqGG.Kmu9uIJ64JP091RooPBLjZke3XiawO3HM6JAH9a+eZE=")
+kb.login(qr=True)
 kb.loginResult
 
 ky = TOBY.LINE()
-ky.login(token="EmYc7hwHUN2lMlLeikKc.Ypc4z9XzFqUJ6h0QDI7t3a.ISRcc5ats1jDTfmu+38VgccGEDSbbyCEppqldf49tHk=")
+ky.login(qr=True)
 ky.loginResult
 
 # client_id = ''
