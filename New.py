@@ -21,7 +21,7 @@ kb.login(qr=True)
 kb.loginResult
 
 ky = TOBY.LINE()
-ky.login(qr=True")
+ky.login(qr=True)
 ky.loginResult
 
 
