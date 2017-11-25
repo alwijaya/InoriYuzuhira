@@ -87,9 +87,8 @@ mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = ky.getProfile().mid
-Dmid = kl.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid]
+Bots=[mid,Amid,Bmid,Cmid]
 admin=["u4b0e00ae8e366fc33d645ac5de9acfcfe"]
 creator=["u4b0e00ae8e366fc33d645ac5de9acfcf"]
 wait = {
