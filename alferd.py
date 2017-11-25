@@ -28,10 +28,6 @@ ky = TOBY.LINE()
 ky.login(qr=True)
 ky.loginResult()
 
-kl = TOBY.LINE()
-kl.login(qr=True)
-kl.loginResult()
-
 # client_id = ''
 # client_secret = ''
 # access_token = ''
