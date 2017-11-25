@@ -2,14 +2,11 @@
 
 import TOBY
 import requests
-import wikipedia
-from bs4 import BeautifulSoup
-from random import randint
 from TOBY.lib.curve.ttypes import *
 from datetime import datetime
 # https://kaijento.github.io/2017/05/19/web-scraping-youtube.com/
 # from imgurpython import ImgurClient
-import time,random,sys,json,codecs,threading,glob,re,requests
+import time,random,sys,json,codecs,threading,glob,re
 
 
 cl = TOBY.LINE()
