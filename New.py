@@ -2,7 +2,6 @@
 
 import TOBY
 import requests
-from bs4 import BeautifulSoup
 from random import randint
 from TOBY.lib.curve.ttypes import *
 from datetime import datetime
